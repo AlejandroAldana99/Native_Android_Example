@@ -10,8 +10,3 @@
 4. Insert the new keys in the Android Manifest (App\src\main\AndroidManifest.xml)
 5. Run the code on virtual machine or physical device 
 ````
-
-> Support:
-````
-And ... if this repository was of great help to you and you feel benebolent, could you support me on Patreon, and thus continue to publish more projects and examples of different technologies.
-````
